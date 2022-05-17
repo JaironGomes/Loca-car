@@ -1,5 +1,5 @@
 # Loca-car
-## Loca- Car
+## Loca-Car
 
-- Aplicação para locação de véiculos
+- Aplicação para locação de veículos.
 - By JaironGomes.
